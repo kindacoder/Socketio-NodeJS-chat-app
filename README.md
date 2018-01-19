@@ -11,3 +11,5 @@ Add “{user} is typing” functionality
 Show who’s online
 Add private messaging
 Share your improvements!
+
+#### Just do npm init and Install all dependencies .Socket.io and express.
