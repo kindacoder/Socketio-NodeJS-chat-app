@@ -12,4 +12,4 @@ Show who’s online
 Add private messaging
 Share your improvements!
 
-#### Just Install all dependencies => Socket.io and express. DO npm init 
+#### Just Install all dependencies => Socket.io and express. Do npm init 
