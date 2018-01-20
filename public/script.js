@@ -1,4 +1,4 @@
-var socket=io.connect('http://localhost:4000'); ///writing 4000 is not compulsory
+var socket=io.connect(); ///writing 4000 is not compulsory
 
 //now Query the dom part:-
 var input=$("#m");
