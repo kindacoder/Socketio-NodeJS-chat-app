@@ -1,11 +1,10 @@
 const express=require('express');
 const socket=require('socket.io');
 const app=express();
+var port=process.env.PORT || 3000;
 
 //listen to port
-const server=app.listen(4000,function(){
-  console.log('Listening to port 4000');
-})
+const server=app.listen(port);
 
 const io=socket(server);
 
