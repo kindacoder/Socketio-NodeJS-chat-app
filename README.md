@@ -1,5 +1,8 @@
 # Socketio-NodeJS-chat-app
 Adding Initial functionality in socketio chat app provided on  Documentation of SocketIO.
+## Link for the chat-app:-
+http://chat-app-100.herokuapp.com/
+
 
 
 ### Didn't care too much about Styling. Just Adding Functionalities.
